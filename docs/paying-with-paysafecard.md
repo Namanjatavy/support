@@ -4,6 +4,7 @@
 Paysafecard is our trusted mechant provider in which you can pay for items on our store using "cash".
 :::
 
+
 ## Steps to purchase items in the store using cash
 
 1. Find a retailer near you on the [paysafecard website](https://www.paysafecard.com/en/find-sales-outlet) that sells paysafecards (this could be your local supermarket!)
